@@ -13,3 +13,5 @@
 ### 🌎 Contato
 - 💼 LinkedIn: https://www.linkedin.com/in/ellen-santos-ramalho/
 - 📧 Email: ellensramalho@gmail.com
+
+![Snake animation](https://github.com/Ellensramalho/Ellensramalho/blob/output/github-contribution-grid-snake.svg)

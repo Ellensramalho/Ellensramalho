@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Olá! Eu sou Ellen
 
-<!--
-**Ellensramalho/Ellensramalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧪 QA Júnior  
+💻 Desenvolvedora em formação.  
+🚀 Em constante aprendizado e evolução na área de tecnologia.
 
-Here are some ideas to get you started:
+- 🎓Formada em Ciência da Computação
+- 🌱 Atualmente aprendendo: JavaScript, Python, React e Testes automatizados.
+- 🎯 Objetivo: me tornar desenvolvedora profissional. 
+- ⚡ Curiosidade: Sou gêmea e minha irmã também é da área de tecnologia. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)

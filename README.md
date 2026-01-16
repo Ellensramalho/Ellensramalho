@@ -10,4 +10,9 @@
 - ⚡ Curiosidade: Sou gêmea e minha irmã também é da área de tecnologia. 
 
 ### 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ellensramalho&show_icons=true&theme=dracula)
+
+
+### 🌎 Contato
+- 💼 LinkedIn: https://www.linkedin.com/in/ellen-santos-ramalho/
+- 📧 Email: ellensramalho@gmail.com

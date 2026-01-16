@@ -10,7 +10,7 @@
 - ⚡ Curiosidade: Sou gêmea e minha irmã também é da área de tecnologia. 
 
 ### 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ellensramalho&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ellensramalho&show_icons=true&cache_seconds=86400)
 
 ### 🌎 Contato
 - 💼 LinkedIn: https://www.linkedin.com/in/ellen-santos-ramalho/
